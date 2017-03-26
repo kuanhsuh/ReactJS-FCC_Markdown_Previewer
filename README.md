@@ -9,4 +9,4 @@ Surge link: (http://reactmarkdownpreviewer.surge.sh/)
 
 
 ## Video Walk Through
-![](https://github.com/kuanhsuh/jscalculator/blob/master/demo.gif)
+![](https://github.com/kuanhsuh/ReactJS-FCC_Markdown_Previewer/blob/master/demo.gif?raw=true)
